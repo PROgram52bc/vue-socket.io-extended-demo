@@ -1,0 +1,4 @@
+# This file contains a list of requirement for python
+flask
+flask-socketio
+eventlet
